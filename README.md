@@ -1,5 +1,10 @@
 # Health Data 
 
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/32745301/37368716-04a74420-26d5-11e8-973d-1bed9203cfd5.jpeg">
+</p>
+
+
 I want to explore how nation-wide county health is related to parameters we as a society are in some 
 sense control of such as food, access to exercise, education, clinical care, insurance, social network 
 and the presence of [Just](https://justcapital.com/2017-rankings/) companies. 
